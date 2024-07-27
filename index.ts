@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-//Bank account interface interfac 
+//Bank account interface 
 
 interface BankAccount {
     accountNumber: number;
